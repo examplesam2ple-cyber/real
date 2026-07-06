@@ -6,7 +6,7 @@ export default defineConfig({
   // If deploying to https://<user>.github.io/<repo>/, set base to '/<repo>/'.
   // If deploying to a custom domain or a user/organization page
   // (https://<user>.github.io/), leave base as '/'.
-  base: '/',
+  base: '/real/',
   plugins: [react()],
   optimizeDeps: {
     exclude: ['lucide-react'],
