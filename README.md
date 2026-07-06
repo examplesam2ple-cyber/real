@@ -1,4 +1,4 @@
-# Lucknowala | Royal Nawabi Cuisin e
+# Lucknowala | Royal Nawabi Cuisine
 
 A React + TypeScript + Vite website for Lucknowala Restaurant.
 
